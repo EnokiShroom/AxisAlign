@@ -17,7 +17,8 @@ Axis Align is a lightweight Blender add-on that helps you precisely align an obj
 ## Installation
 - Download AxisAlign.zip
 - In Blender, go to Edit > Preferences > Add-ons
-- Click "Install from disk", select the file
+- Click "Install", select the file
+- Click the checkbox to enable add-on
 
 ## Requirements
 - Blender 2.93 or later
