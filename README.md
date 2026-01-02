@@ -1,5 +1,5 @@
 # Axis Align (Blender Add-on)
-Axis Align is a lightweight Blender add-on that helps you precisely align an object's local axis to the view direction, or another object — optionally removing twist for upright orientation.
+Axis Align is a lightweight Blender add-on that helps you precisely align an object's local axis to the view direction, or another object. Includes an option for minimizing unwanted twisting.
 
 ## Features
 ### Align Axis to View
@@ -9,16 +9,13 @@ Axis Align is a lightweight Blender add-on that helps you precisely align an obj
 - Point the selected axis of one or more objects directly at the active object.
 
 ### Align Axis Without Twist
-- Maintains upright orientation when aligning to a target, avoiding unwanted rotation around the alignment axis.
+- Maintains upright orientation when aligning to a target, with minimal rotation around the alignment axis.
 
 ### Flexible Axis Selection
 - Choose from any of the six local axes (+X, -X, +Y, -Y, +Z, -Z) to define alignment direction.
 
 ## Installation
-- Download AxisAlign.zip
-- In Blender, go to Edit > Preferences > Add-ons
-- Click "Install", select the file
-- Click the checkbox to enable add-on
+- Drag AxisAlign.zip into the Blender window.
 
 ## Requirements
 - Blender 2.93 or later
